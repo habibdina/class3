@@ -1,0 +1,5 @@
+print("hello! baby")
+x=input("what is your name")
+print(x+" lenght of your name is " + str(len(x)) )
+y=input("what is your age")
+print(("you will be ") + str(int(y)+1) + (" in a year") )
